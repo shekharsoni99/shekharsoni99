@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Hibernate, MySQL, Java**
 
-- 💬 Ask me about **Spring, Hibernate, Java, HTML, CSS, JS, MySQL**
+- 💬 Ask me about ** Java, HTML, CSS, JS ,Spring, Hibernate, MySQL**
 
 - 📫 How to reach me **shekharsoni99@gmail.com**
 
