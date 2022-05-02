@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@shekharsoni99](https://medium.com/@shekharsoni99)
 
-- 💬 Ask me about **Spring, Hibernate, Java, HTML, CSS, JS, MySQL**
+- 💬 Ask me about ** HTML, CSS, JS, Java, MySQL, Spring, Hibernate **
 
 - 📫 How to reach me **shekharsoni99@gmail.com**
 
