@@ -1,5 +1,4 @@
-   
-![c1](https://user-images.githubusercontent.com/94068631/166294440-9296c729-c24e-4cfe-a5dc-b7c53cddd169.jpg)
+![c1](https://user-images.githubusercontent.com/94068631/166299976-72c0810e-66a0-4bf8-8230-c47c1905c796.jpg)
    
 <h1 align="left">Hi 👋, I'm Shekhar Soni</h1>
 <h3 align="left">A passionate Full Stack Web developer from India</h3>
