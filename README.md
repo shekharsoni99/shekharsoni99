@@ -35,12 +35,8 @@
 <br/>
 
 <h3><img src="https://img.icons8.com/ios-glyphs/240/000000/github.png" style="height:25px;"/>Github Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shekharsoni99&show_icons=true&locale=en&layout=compact" alt="shekharsoni99" /></p>
 
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shekharsoni99&show_icons=true&locale=en" alt="shekharsoni99" /></p>
 
-<br/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shekharsoni99&" alt="shekharsoni99" /></p>
