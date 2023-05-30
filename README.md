@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Hibernate, MySQL, Java**
 
-- 👨‍💻 All of my projects are available at [https://mynew-portfolio.netlify.app/](https://mynew-portfolio.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://mynew-portfolio.netlify.app/](https://mynew-portfolio.netlify.app/) -->
 
 - 📝 I regularly write articles on [https://medium.com/@shekharsoni99](https://medium.com/@shekharsoni99)
 
